@@ -7,6 +7,6 @@ All MagicWave participants are **compensated** ensuring system performance and e
 To learn more...
 - Technology - [here](https://magicwave.io/technology/)
 - How to participate and monetize - [here](https://magicwave.io/participate/)
-- Docker Images - [here](https://hub.docker.com/r/magicwaveio/magicwave)
+- Docker Images - [here](https://hub.docker.com/r/magicwaveio/production)
 
 *And of course all source code is here on Github.*
